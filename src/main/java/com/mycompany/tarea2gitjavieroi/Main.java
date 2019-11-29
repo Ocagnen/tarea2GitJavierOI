@@ -12,5 +12,7 @@ package com.mycompany.tarea2gitjavieroi;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Javier");
+        
+        Jugador javier = new Jugador("Javier",2,25);
     }
 }

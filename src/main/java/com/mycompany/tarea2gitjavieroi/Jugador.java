@@ -10,5 +10,7 @@ package com.mycompany.tarea2gitjavieroi;
  * @author javier
  */
 public class Jugador {
-    
+    private String nombre;
+    private int votos;
+    private int id;
 }

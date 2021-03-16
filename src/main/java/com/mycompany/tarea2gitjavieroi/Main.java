@@ -14,5 +14,7 @@ public class Main {
         System.out.println("Javier");
         
         Jugador javier = new Jugador("Javier",2,25);
+        
+        System.out.println("Hola Javier");
     }
 }
